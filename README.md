@@ -11,9 +11,9 @@ It demonstrates how SOC analysts can detect and respond to cyberattacks.
 - Tools: WinCollect, Wireshark, Hydra, Nmap
 
 ## ⚔️ Simulated Attacks
-- **T1046 – Network Service Scanning**: Nmap scan
-- **T1110 – Brute Force**: Hydra against RDP
-- **T1078 – Valid Accounts**: Successful login with compromised credentials
+- **Network Service Scanning**: Nmap scan
+- **Brute Force**: Hydra against RDP
+- **Valid Accounts**: Successful login with compromised credentials
 
 ## 📊 Detection
 - Logs collected via WinCollect (Windows) and rsyslog (Kali).
@@ -31,4 +31,5 @@ See `/qradar_rules_screens` and `/wireshark_captures`.
 
 ---
 ⭐ If you like this project, feel free to fork or use it for learning.
+
 
